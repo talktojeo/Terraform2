@@ -3,7 +3,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "resgrpp2442"
+  name     = "res_grpp232"
   location = "UK South"
 }
 
