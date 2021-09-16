@@ -12,4 +12,4 @@ provider "azurerm" {
 resource "azurerm_resource_group" "rg" {
   name = "res_grpp2442"
   location = "uksouth"
-}
+} 
